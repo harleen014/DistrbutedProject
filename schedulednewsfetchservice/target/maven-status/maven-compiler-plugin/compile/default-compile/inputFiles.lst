@@ -1,0 +1,17 @@
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\exception\ArticleAllreadyExistsException.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\SchedulingTasksApplication.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\utils\SchedulingTasksUtil.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\entity\ArticleEntity.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\exception\ErrorDetails.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\controller\NewsFeedController.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\model\SourceModel.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\repository\NewsFeedRepository.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\entity\SourceEntity.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\entity\UserEntity.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\service\NewsFeedService.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\model\ArticleModel.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\service\NewsFeedServiceImpl.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\exception\InvalidRequestException.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\ScheduledTasks.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\exception\ArticleNotFoundException.java
+C:\Users\komal\Documents\UWCourses\Distributed Computing\NewsApp\NewsFeed\gs-scheduling-tasks\complete\src\main\java\com\example\schedulingtasks\exception\GlobalExceptionHandler.java
